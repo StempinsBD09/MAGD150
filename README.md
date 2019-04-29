@@ -1,3 +1,6 @@
+layout: default
+
+
 # MAGD150
 
 [Assignment 7](https://github.com/StempinsBD09/MAGD150/tree/gh-pages/s19_magd150_lab07_Stempinski)
