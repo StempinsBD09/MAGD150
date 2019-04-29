@@ -1,4 +1,4 @@
-layout: default
+theme: slate
 
 
 # MAGD150
