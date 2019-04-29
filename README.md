@@ -1,4 +1,4 @@
-theme: slate
+theme: Slate
 
 
 # MAGD150
